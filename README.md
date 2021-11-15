@@ -12,4 +12,4 @@ You can search for a subject and receive images and some data about that subject
 
 Click [here](https://mahmood-kn.github.io/image-gallery 'Image Gallery') to see the live demo of this project.
 
-**Note:**: If it's not loading the images , use a vpn _(IR)_.
+**Note:** If it's not loading the images , use a vpn _(IR)_.
